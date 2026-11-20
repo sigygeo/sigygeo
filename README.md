@@ -1,4 +1,7 @@
 ## Hi there 👋
+- I'm a Geograph who love the SIG
+🌱 I’m currently learning to use GitHub
+📫 How to reach me: sigygeo@gmail.com
 
 <!--
 **sigygeo/sigygeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
